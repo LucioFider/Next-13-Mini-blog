@@ -16,19 +16,19 @@ export default function Navbar() {
         <div className="flex flex-row justify-center sm:justify-evenly align-middle gap-4 text-white text-4xl lg:text-5xl">
           <Link
             className="text-white/90 hover:text-white"
-            href="https://www.youtube.com"
+            href="https://www.github.com"
           >
             <FaGithub />
           </Link>
           <Link
             className="text-white/90 hover:text-white"
-            href="https://www.youtube.com"
+            href="https://www.laptop.com"
           >
             <FaLaptop />
           </Link>
           <Link
             className="text-white/90 hover:text-white"
-            href="https://www.youtube.com"
+            href="https://www.twitter.com"
           >
             <FaTwitter />
           </Link>
